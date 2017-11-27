@@ -1,6 +1,6 @@
 [autorun]
-open = setup.exe 
-shellexecute=blah.exe
-shell\open\command=blah.exe
-shell\explore\command = setup.exe 
-shell\autoplay\command = setup.exe 
+open = [Executable malware]
+shellexecute = [Executable malware]
+shell\open\command = [Executable malware]
+shell\explore\command = [Executable malware] 
+shell\autoplay\command = [Executable malware] 
