@@ -1,3 +1,0 @@
-[autorun]
-shellexecute="bumper\blah.exe"
-shell\open\command="bumper\blah.exe"
