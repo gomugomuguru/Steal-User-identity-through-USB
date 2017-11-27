@@ -3,6 +3,6 @@ from distutils.core import setup
 import py2exe
 
 setup(
-    windows=["C:\\Users\\ganeshl900\\github\\zumla\\bumper\\new.pyw"],
+    windows=["mal.pyw"],
     zipfile=None
      )
